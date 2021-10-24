@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Juan Quirós and I am about to graduate as Systems Engineer! I am passionate about technology and a React js lover who keeps learning and improving everyday in order to become a Full Stack Front End dev.
+- 👋 Hi, my name is Juan Quiros and I am a Systems Engineer passionate about technology and a React js lover who wants to learn and improve a lot everyday on my way to become a Full Stack Engineer.
 - 📫 You can reach to me by sending an email to juan.kqm96@gmail.com
 <!---
 Juankqm/Juankqm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
