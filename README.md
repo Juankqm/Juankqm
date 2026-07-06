@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Juan Quiros and I am a Systems Engineer passionate about programming who wants to learn and improve a lot everyday on my way to become a Full Stack Developer.
+- 👋 Hi, I'm a Systems Engineer with 5+ years of experience as a Programmer Analyst, combining strong software development expertise with a focus on project management and agile practices. Holds a Master’s degree in Project Management and is committed to delivering strategic, high impact solutions aligned with business objectives.
 - 📫 You can reach out to me by sending an email to juan.kqm96@gmail.com 
 <!---
 Juankqm/Juankqm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
